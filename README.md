@@ -5,4 +5,5 @@ Link for the website :<br/> https://eitbit.s3.ap-south-1.amazonaws.com/index.htm
 <br/> This also uses to show the gif and user needs to enter a keyword, this keyword related gif is retrieved using giphy api and shows the list of transactions using gifs. <br/>
 
 <img width="1339" alt="image" src="https://user-images.githubusercontent.com/74697139/188322472-1edd32d0-a916-4f84-9421-2a41527d8ea1.png">
-<img width="1303" alt="image" src="https://user-images.githubusercontent.com/74697139/188322494-328a0e14-4b54-40d1-92a0-afa3c9085e24.png">
+<img width="983" alt="image" src="https://user-images.githubusercontent.com/74697139/188322683-0fd1e799-23ec-454c-a1a2-755cc564b171.png">
+
