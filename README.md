@@ -5,5 +5,6 @@
 ### This also uses to show the gif and user needs to enter a keyword, this keyword related gif is retrieved using giphy api and shows the list of transactions using gifs. <br/>
 
 <img width="1339" alt="image" src="https://user-images.githubusercontent.com/74697139/188322472-1edd32d0-a916-4f84-9421-2a41527d8ea1.png">
+<img width="1315" alt="image" src="https://user-images.githubusercontent.com/74697139/188407160-5cc4e328-581f-495d-8e4a-d0623a49879a.png">
 
 
